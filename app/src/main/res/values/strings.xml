@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JogodaVelhaSelfies</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="draw">Empate!</string>
+    <string name="drawMessage">Não há vencedores!</string>
+</resources>
